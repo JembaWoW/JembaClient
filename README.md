@@ -5,6 +5,9 @@ Includes [SuperWoW](https://github.com/balakethelock/SuperWoW/releases/) and the
 
 # ⚠️ **Run the game via VanillaFixes and not WoW** ⚠️
 
+# ⚠️ **The repo is unlikely to be maintained. SuperWoW will most likely receive future updates which you'll need to update manually yourself.** ⚠️
+I've tried to include as many links to my sources as possible.
+
 The Vanilla Tweaks settings that I used:
 ```
 ./vanilla-tweaks --nameplatedistance 20 --no-quickloot --soundchannels 32 WoW.exe -o WoW.exe
@@ -16,7 +19,7 @@ The Vanilla Tweaks settings that I used:
 
 Also included are 3 custom patches in the Data folder.
 
-**patch-9** is a SuperWoW patch for changing how the circle looks on the ground when you target a mob. In the attatched image is style "3", which adds a little arrow showing which direction the head of the mob is facing.
+**patch-9** is a [SuperWoW patch](https://github.com/balakethelock/SuperWoW/releases/tag/Patch) for changing how the circle looks on the ground when you target a mob. In the attatched image is style "3", which adds a little arrow showing which direction the head of the mob is facing.
 https://github.com/balakethelock/SuperWoW/wiki/Changelog#14042024--110
 (Change between the 4 styles via SuperAPI's minimap button)
 
